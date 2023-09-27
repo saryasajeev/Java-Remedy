@@ -1,9 +1,9 @@
 /*******************************************
- *File       :Percentage.java
- *Description:sgbffgdgbfsbgfggjdukhkjymxfjhugidxys zgtjx
+ *File       :Numberpositive
+ *Description:Finding positive or negative number
  *author     :sarya sajeev
  *version    :1.0
- *Date       :26/09/2023
+ *Date       :27/09/2023
 *******************************************/
 import java.util.Scanner;
 public class Numberpositive {
